@@ -2,10 +2,10 @@
   "name": "js-task-tracker",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "task-cli.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "node task-cli.js"
   },
   "keywords": [],
   "author": "",
