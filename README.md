@@ -141,6 +141,9 @@ task-cli list in-progress
 ## License
 This project is licensed under the MIT License.
 
+## Project page url
+[This project is licensed under the MIT License](https://roadmap.sh/projects/task-tracker).
+
 ---
 Enjoy managing your tasks efficiently with the CLI Task Tracker!
 
